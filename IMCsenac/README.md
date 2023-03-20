@@ -1,2 +1,0 @@
-# IMCsenac by Daniel Bastos
-
